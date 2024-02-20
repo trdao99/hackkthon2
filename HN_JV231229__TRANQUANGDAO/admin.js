@@ -23,7 +23,7 @@ function renderProduct() {
       tr.innerHTML += `
         <td>${i + 1}</td>
         <td>${product.projectName}</td>
-        <td>${product.imgSrc}</td>
+        
         <td>${product.projectLink}</td>
         <td>${projectTags}</td>
         <td>
